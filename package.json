@@ -1,0 +1,10 @@
+{
+  "name": "icli",
+  "version": "0.0.1-alpha",
+  "bin": {
+    "icli": "bin/icli.js"
+  },
+  "dependencies": {
+    "commander": "^9.2.0"
+  }
+}
