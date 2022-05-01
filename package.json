@@ -5,6 +5,7 @@
     "icli": "bin/icli.js"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^9.2.0"
   }
 }
